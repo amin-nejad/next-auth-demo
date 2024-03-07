@@ -1,4 +1,5 @@
-# my-app
+# Next Auth demo with SSO
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) used to demonstrate SSO integration. For more details, see the companion blog post [here](https://amin-nejad.com/posts/vercel-sso-nextjs-app-router/)
 
 ![Homepage](homepage.png?raw=true)
